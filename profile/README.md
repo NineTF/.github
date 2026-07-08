@@ -10,7 +10,7 @@
 
 ## 📌 ¿Qué es esto?
 
-NineTF es donde monto y mantengo mis proyectos: optimización de Windows, laboratorios en Linux, bots de Discord y herramientas para servidores de juego. No hay equipo de marketing detrás ni roadmap corporativo — es trabajo de taller, hecho porque me gusta que las cosas funcionen bien y sin grasa de más.
+NineTF es donde monto y mantengo mis proyectos: optimización de Windows, laboratorios en Linux, bots de Discord y herramientas para servidores de juego. No hay equipo de marketing detrás ni roadmap corporativo — es trabajo de taller, hecho porque me gusta que las cosas funcionen bien.
 
 ---
 
